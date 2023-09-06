@@ -1,0 +1,109 @@
+
+@font-face {
+  font-family: "Lato";
+  src: url(https://fonts.googleapis.com/css2?family=Lato);
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  color: #000000;
+
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+h3 {
+
+  font-size: 24px;
+  text-align: center;
+  color: #000000;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: normal;
+  text-align: left;
+  color: #000000;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: bold !important;
+  color: #000000 !important;
+}
+
+h6 {
+  font-size: 16px !important;
+  color: #000000 !important;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 17px;
+  color: #000000;
+
+}
+
+table {
+  font-size: 17px;
+  margin: auto;
+}
+
+th {
+  text-align: left;
+  color: #1D3557;
+  border: solid #457B9D;
+  padding: 5px;
+}
+
+td {
+  text-align: left;
+  border: solid #457B9D;
+  padding: 5px;
+}
+.container {
+  margin-top: 90px;
+  max-width: 1080px;
+}
+
+section{
+  margin-bottom: 20px;
+}
+
+/*Blogs*/
+.tutorial-title{
+  display: flex;
+  align-items: center;
+}
+.tutorial-title img{
+  width: 50px;
+}
+.tutorial-description{
+  margin: 0 5px;
+}
