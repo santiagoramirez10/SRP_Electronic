@@ -1,0 +1,534 @@
+[
+    {
+        "Codigo": "AMOP-LM358",
+        "Nombre_Producto": "Amplificador Operacional LM358",
+        "Precio": "1000",
+        "Inventario": "38",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-CAIMAN-50",
+        "Nombre_Producto": "Cable Caim\u00e1n",
+        "Precio": "900",
+        "Inventario": "84",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-JHH20",
+        "Nombre_Producto": "Cables Jumper Hembra-Hembra 20cm x 10 unidades",
+        "Precio": "3000",
+        "Inventario": "49",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-JHH30",
+        "Nombre_Producto": "Cables Jumper Hembra-Hembra 30cm x 10 unidades",
+        "Precio": "3500",
+        "Inventario": "57",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-JHM20",
+        "Nombre_Producto": "Cables Jumper Hembra-Macho 20cm x 10 unidades",
+        "Precio": "3000",
+        "Inventario": "54",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-JHM30",
+        "Nombre_Producto": "Cables Jumper Hembra-Macho 30cm x 10 unidades",
+        "Precio": "3500",
+        "Inventario": "63",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CABJ-MM20",
+        "Nombre_Producto": "Cables Jumper Macho-Macho 20cm x 10 unidades",
+        "Precio": "3000",
+        "Inventario": "55",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAB-JMM30",
+        "Nombre_Producto": "Cables Jumper Macho-Macho 30cm x 10 unidades",
+        "Precio": "3500",
+        "Inventario": "31",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-CE-0,0001uF50V",
+        "Nombre_Producto": "Capacitor Cer\u00e1mico 0,0001\u00b5F 50V",
+        "Precio": "150",
+        "Inventario": "93",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-CE-0,001uF50V",
+        "Nombre_Producto": "Capacitor Cer\u00e1mico 0,001\u00b5F 50V",
+        "Precio": "150",
+        "Inventario": "15",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-CE-0,01uF50V",
+        "Nombre_Producto": "Capacitor Cer\u00e1mico 0,01\u00b5F 50V",
+        "Precio": "150",
+        "Inventario": "63",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-CE-0,1uF50V",
+        "Nombre_Producto": "Capacitor Cer\u00e1mico 0,1\u00b5F 50V",
+        "Precio": "150",
+        "Inventario": "28",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-0,1uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 0,1\u00b5F 50 V",
+        "Precio": "200",
+        "Inventario": "95",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-0,22uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 0,22\u00b5F 50 V",
+        "Precio": "100",
+        "Inventario": "40",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-0,47uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 0,47\u00b5F 50 V",
+        "Precio": "100",
+        "Inventario": "84",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-1uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 1\u00b5F 50 V",
+        "Precio": "100",
+        "Inventario": "37",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-10uF25V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 10\u00b5F 25 V",
+        "Precio": "200",
+        "Inventario": "45",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-100uF16V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 100\u00b5F 16 V",
+        "Precio": "200",
+        "Inventario": "38",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-100uF25V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 100\u00b5F 25 V",
+        "Precio": "250",
+        "Inventario": "9",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-100uF50",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 100\u00b5F 50 V",
+        "Precio": "300",
+        "Inventario": "44",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-1000uF25V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 1000\u00b5F 25V",
+        "Precio": "600",
+        "Inventario": "76",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-2,2uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 2,2\u00b5F 50V",
+        "Precio": "200",
+        "Inventario": "90",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-22uF25V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 22\u00b5F 25V",
+        "Precio": "300",
+        "Inventario": "41",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-220uF10V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 220\u00b5F 10V",
+        "Precio": "250",
+        "Inventario": "53",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-3,3uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 3,3\u00b5F 50V",
+        "Precio": "200",
+        "Inventario": "53",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-33uF16V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 33\u00b5F 16V",
+        "Precio": "100",
+        "Inventario": "16",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-4,7uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 4,7\u00b5F 50V",
+        "Precio": "100",
+        "Inventario": "48",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-47uF16V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 47\u00b5F 16V",
+        "Precio": "100",
+        "Inventario": "91",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-47uF25V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 47\u00b5F 25V",
+        "Precio": "100",
+        "Inventario": "97",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CAP-EL-4700uF50V",
+        "Nombre_Producto": "Capacitor Electrol\u00edtico 4700\u00b5F 50V",
+        "Precio": "5000",
+        "Inventario": "52",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "CIRIN-LM555",
+        "Nombre_Producto": "Circuito Integrado Temporizador LM555",
+        "Precio": "700",
+        "Inventario": "10",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-EMIINF5mm",
+        "Nombre_Producto": "LED Emisor Infrarrojo 5mm",
+        "Precio": "400",
+        "Inventario": "99",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-RECINF5mm",
+        "Nombre_Producto": "LED Receptor Infrarrojo 5mm",
+        "Precio": "400",
+        "Inventario": "50",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "DIOD-1N4004",
+        "Nombre_Producto": "Diodo Rectificador 1N4004 400 V-1 A",
+        "Precio": "100",
+        "Inventario": "25",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "DIS-LCD1602V",
+        "Nombre_Producto": "Display  LCD 16x2 fondo verde",
+        "Precio": "17000",
+        "Inventario": "86",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "DIS-7S-1P-AC-R",
+        "Nombre_Producto": "Display 7 Segmentos 1 Puesto \u00c1nodo Com\u00fan Rojo",
+        "Precio": "1000",
+        "Inventario": "6",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "DIS-7S-2P-CC-R",
+        "Nombre_Producto": "Display 7 Segmentos 2 Puestos C\u00e1todo Com\u00fan Rojo",
+        "Precio": "3500",
+        "Inventario": "18",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LDR-5mm5539",
+        "Nombre_Producto": "Fotorresistencia LDR 5539 5mm",
+        "Precio": "900",
+        "Inventario": "58",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-BLA5mm",
+        "Nombre_Producto": "LED Blanco 5mm",
+        "Precio": "400",
+        "Inventario": "97",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DAMA5mm",
+        "Nombre_Producto": "LED Difuso Amarillo 5mm",
+        "Precio": "400",
+        "Inventario": "64",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DNAR5mm",
+        "Nombre_Producto": "LED Difuso Naranjado 5mm",
+        "Precio": "400",
+        "Inventario": "43",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DROJ3mm",
+        "Nombre_Producto": "LED Difuso Rojo 3mm",
+        "Precio": "300",
+        "Inventario": "88",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DROJ5mm",
+        "Nombre_Producto": "LED Difuso Rojo 5mm",
+        "Precio": "400",
+        "Inventario": "11",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DVER3mm",
+        "Nombre_Producto": "LED Difuso Verde 3mm",
+        "Precio": "300",
+        "Inventario": "64",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-DVER5mm",
+        "Nombre_Producto": "LED Difuso Verde 5mm",
+        "Precio": "400",
+        "Inventario": "18",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "LED-RGBCC5mm",
+        "Nombre_Producto": "LED RGB C\u00e1todo Com\u00fan",
+        "Precio": "600",
+        "Inventario": "97",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "MOD-RFIDRC522",
+        "Nombre_Producto": "M\u00f3dulo RFID RC522 ",
+        "Precio": "8000",
+        "Inventario": "98",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "OCT-MOC3010",
+        "Nombre_Producto": "Octoacoplador MOC3010",
+        "Precio": "3000",
+        "Inventario": "40",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "OCT-PC817",
+        "Nombre_Producto": "Octoacoplador PC817",
+        "Precio": "600",
+        "Inventario": "41",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "PROT-830PB",
+        "Nombre_Producto": "Protoboard 830 Puntos Blanca",
+        "Precio": "16000",
+        "Inventario": "6",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "PROT-830PT",
+        "Nombre_Producto": "Protoboard 830 Puntos Transparente",
+        "Precio": "16000",
+        "Inventario": "0",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "PUREC-CIR-1000V-2A",
+        "Nombre_Producto": "Puente Rectificador Circular 1000 V-2 A",
+        "Precio": "800",
+        "Inventario": "20",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "PUREC-ENC-700V-1A",
+        "Nombre_Producto": "Puente Rectificador Encapsulado 700 V-1 A",
+        "Precio": "800",
+        "Inventario": "72",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "PUL-4PGBC",
+        "Nombre_Producto": "Pulsador 4 Patas Grande Con Bot\u00f3n de Color",
+        "Precio": "700",
+        "Inventario": "35",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM317T",
+        "Nombre_Producto": "Regulador de Voltaje LM317T",
+        "Precio": "2400",
+        "Inventario": "53",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM337T",
+        "Nombre_Producto": "Regulador de Voltaje LM337T",
+        "Precio": "2000",
+        "Inventario": "37",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM7805",
+        "Nombre_Producto": "Regulador de Voltaje LM7805",
+        "Precio": "1300",
+        "Inventario": "14",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM7809",
+        "Nombre_Producto": "Regulador de Voltaje LM7809",
+        "Precio": "1600",
+        "Inventario": "31",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM7812",
+        "Nombre_Producto": "Regulador de Voltaje LM7812",
+        "Precio": "1600",
+        "Inventario": "15",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REGV-LM7905",
+        "Nombre_Producto": "Regulador de Voltaje LM7905",
+        "Precio": "2000",
+        "Inventario": "10",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REL-12V10A5P",
+        "Nombre_Producto": "Rel\u00e9 12 V-10 A- 5 pines",
+        "Precio": "3500",
+        "Inventario": "90",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "REL-5V10A5P",
+        "Nombre_Producto": "Rel\u00e9 5 V-10 A- 5 pines",
+        "Precio": "3500",
+        "Inventario": "64",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-100k-1/4",
+        "Nombre_Producto": "Resistencia 100 k\u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "51",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-100-1/4",
+        "Nombre_Producto": "Resistencia 100 \u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "63",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-10k-1/4",
+        "Nombre_Producto": "Resistencia 10 k\u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "92",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-10-1/4",
+        "Nombre_Producto": "Resistencia 10 \u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "75",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-1k-1/4",
+        "Nombre_Producto": "Resistencia 1 k\u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "11",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-1M-1/4",
+        "Nombre_Producto": "Resistencia 1 M\u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "13",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "RES-220-1/4",
+        "Nombre_Producto": "Resistencia 220 \u03a9 1/4 W",
+        "Precio": "60",
+        "Inventario": "57",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "SEN-H2010",
+        "Nombre_Producto": "Sensor \u00d3ptico H2010",
+        "Precio": "2600",
+        "Inventario": "79",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TIR-BT136",
+        "Nombre_Producto": "Tiristor BT136 600 V-4 A",
+        "Precio": "2500",
+        "Inventario": "93",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TIR-C106D",
+        "Nombre_Producto": "Tiristor C106D 400 V-4 A",
+        "Precio": "1200",
+        "Inventario": "31",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TRAN-TIP122",
+        "Nombre_Producto": "Transistor Darlington NPN TIP122 100 V-5 A",
+        "Precio": "2000",
+        "Inventario": "67",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TRAN-TIP127",
+        "Nombre_Producto": "Transistor Darlington PNP TIP127 100 V-5 A",
+        "Precio": "2000",
+        "Inventario": "52",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TRAN-2N2222",
+        "Nombre_Producto": "Transistor NPN 2N2222 40 V-600 mA",
+        "Precio": "200",
+        "Inventario": "0",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    },
+    {
+        "Codigo": "TRAN-2N3904",
+        "Nombre_Producto": "Transistor NPN 2N3904 40 V-200 mA",
+        "Precio": "200",
+        "Inventario": "2",
+        "Imagen": "../../assets/images/Productos/LED Difuso Verde 5mm.jpg"
+    }
+]

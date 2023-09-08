@@ -1,0 +1,20 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product {
+    width:  300px;
+    border: solid 1px #000000;
+    margin: 10px;
+}
+
+img {
+    border: 50px;
+    max-width: 250px;
+}
+
+.info{
+    margin-left: 25px;
+}

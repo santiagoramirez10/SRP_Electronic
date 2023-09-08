@@ -1,1 +1,12 @@
-<p>home works!</p>
+<section class="products">
+    <div class="product" *ngFor="let Product of Products">
+        <div>
+            <img src="{{Product.Imagen}}" class="card-img-top" alt="">
+            <div class="info">
+                <h5>{{Product.Codigo}}</h5>
+                <h4>{{Product.Nombre_Producto}}</h4>
+                <h4>${{Product.Precio}} <button>Añadir artículo</button></h4>
+            </div>
+        </div>
+    </div>
+</section>
